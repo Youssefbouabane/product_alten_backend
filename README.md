@@ -19,7 +19,7 @@ The project uses **H2** as an in-memory database for testing purposes.
 ### H2 Database Details:
 - **URL**: `jdbc:h2:mem:testdb`
 - **Driver Class**: `org.h2.Driver`
-- **Username**: `sa`
+- **Username**: `admin`
 - **Password**: (No password is required)
 
 You can access the H2 console from the following URL after running the application:
@@ -27,7 +27,7 @@ http://localhost:8080/h2-console
 
 
 - **JDBC URL**: `jdbc:h2:mem:testdb`
-- **Username**: `sa`
+- **Username**: `admin`
 - **Password**: (Leave it blank)
 
 ## Postman Collection
